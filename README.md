@@ -1,8 +1,10 @@
-# Hi, I'm Mark Davenport 👋
+# Hi, I'm Mark Davenport 
 
 ## Talent Acquisition | Business Continuity | Risk Management | Disaster Recovery
 
-I am a recruiting professional with experience helping organizations hire exceptional talent across SaaS, Business Continuity, Operational Resilience, Risk Management, and Disaster Recovery. I enjoy building strong relationships, solving hiring challenges, and connecting great people with meaningful opportunities.
+I'm a Senior Technical Recruiter at Fusion Risk Management, specializing in Business Continuity, Operational Resilience, Risk Management, and Disaster Recovery talent.
+
+I help organizations build resilient teams by connecting exceptional professionals with meaningful opportunities. With experience in recruiting, operations, management, and SaaS, I enjoy building lasting relationships and solving complex hiring challenges.
 
 ### Areas of Expertise
 - Talent Acquisition & Recruiting
@@ -18,6 +20,6 @@ I am a recruiting professional with experience helping organizations hire except
 📄 [Download My Resume](./resume.pdf)
 
 ## Connect with Me
-- LinkedIn:https://www.linkedin.com/in/mark-davenport-8512bb15/
+- LinkedIn: [Mark Davenport on LinkedIn](https://www.linkedin.com/in/mark-davenport-8512bb15/)
 - Email: markdavenpport50@gmail.com
   
