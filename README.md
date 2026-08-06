@@ -21,6 +21,3 @@ I am a recruiting professional with experience helping organizations hire except
 - LinkedIn: *(Add your LinkedIn URL here)*
 - Email: *(Use the email address you want recruiters to contact you.)*
 --->
-## 📄 Resume
-
-➡️ **[Download My Resume](./resume.pdf)**
