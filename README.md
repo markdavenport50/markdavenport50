@@ -17,7 +17,7 @@ I help organizations build resilient teams by connecting exceptional professiona
 - Bilingual: English & German
 
 ## Resume
-📄 [Download My Resume](./resume.pdf)
+📄 [Download My Resume](./Mark_Davenport_International_Talent_Partner_EMEA_Redesigned_0826.pdf)
 
 ## Connect with Me
 - LinkedIn: [Mark Davenport on LinkedIn](https://www.linkedin.com/in/mark-davenport-8512bb15/)
