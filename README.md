@@ -18,6 +18,6 @@ I am a recruiting professional with experience helping organizations hire except
 📄 [Download My Resume](./resume.pdf)
 
 ## Connect with Me
-- LinkedIn: *(Add your LinkedIn URL here)*
-- Email: *(Use the email address you want recruiters to contact you.)*
+- LinkedIn:https://www.linkedin.com/in/mark-davenport-8512bb15/
+- Email: markdavenpport50@gmail.com
 --->
