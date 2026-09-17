@@ -2,7 +2,7 @@
 
 ## Talent Acquisition | Business Continuity | Risk Management | Disaster Recovery
 
-I'm a Senior Technical Recruiter at Fusion Risk Management, specializing in Business Continuity, Operational Resilience, Risk Management, and Disaster Recovery talent.
+I'm a Principal Recruiter at Fusion Risk Management, specializing in Business Continuity, Operational Resilience, Risk Management, and Disaster Recovery talent.
 
 I help organizations build resilient teams by connecting exceptional professionals with meaningful opportunities. With experience in recruiting, operations, management, and SaaS, I enjoy building lasting relationships and solving complex hiring challenges.
 
